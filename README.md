@@ -26,3 +26,10 @@ Please see the screenshots attached.
 
 What is not done in this project:
 Pagination
+
+
+How to run the project:
+1> first clone the project 
+2> cd vuex-profile-master
+3)npm install
+4)npm run dev
