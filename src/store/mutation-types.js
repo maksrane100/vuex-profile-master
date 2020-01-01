@@ -1,0 +1,6 @@
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const INCREMENT = 'INCREMENT'
+export const DECREMENT = 'DECREMENT'
+export const REMOVE = 'REMOVE'
+export const SHORTLIST_PROFILE = 'SHORTLIST_PROFILE'
+export const VIEW_PROFILE_DETAILS = 'VIEW_PROFILE_DETAILS'
